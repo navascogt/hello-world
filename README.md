@@ -29,3 +29,5 @@ near future I want to integrate my other passion in some way... Rock Music and P
 This introduction was for the GitHub Tutorial but I extend a little bit... and thing there is several not mentioned.
 
 From now I will begin to upload my projects...
+
+[![An image of @navascogt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navascogt)](https://holopin.io/@navascogt)
